@@ -7,7 +7,10 @@ _Hacker, Systems dude, lover of beautiful code_
 * [linkedin](http://www.linkedin.com/pub/jay-adkisson/19/222/458)
 
 ## What I'm looking for
-
+I'm looking for a team that is a joy to work with on a daily basis.
+I thrive in an environment where I can learn lots of new things, and work to make things a little better.
+I'd be really jazzed about working at a socially-conscious startup that has a mission I can believe in -
+  but really it's about having a team that works together, overcomes challenges together, and grows together.
 
 ## Education
 * **University of California, Berkeley.**
