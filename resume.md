@@ -39,3 +39,10 @@ Based on the needs of the company and my insatiable curiosity, I decided to pivo
 * [truth](http://github.com/jayferd/truth), a library to define and manage truth in a datacenter (WIP).  It's got a sweet declarative ruby DSL.
 * [mathquill](http://mathquill.com), gui editable math in the browser.  Also, awesomesauce.
 * [rpgem](https://github.com/jayferd/rpgem), an admittedly hacky cli tool to turn gems into binary rpms, with specified exterrnal dependencies, and no dependencies on a compiler, development headers, or development gems.
+
+## Non-sequitur interests
+* Rock piano.  Yeah, you heard me.
+* Nonviolence and conflict resolution
+* Meditation as a means to growth
+* Collecting and identifying wild mushrooms
+* Skipping
