@@ -10,17 +10,34 @@ _Hacker, Systems dude, lover of beautiful code_
 
 
 ## Education
-* **University of California, Berkeley.**  Double major in Mathematics (Pure) and Music.  3.57 UC GPA, 4.0 Mathematics GPA.  Graduated: December 2009
+* **University of California, Berkeley.**
+  Double major in Mathematics (Pure) and Music.
+  3.57 UC GPA, 4.0 Mathematics GPA.
+  Graduated: December 2009
 
 ## Relevant Experience
 
 ### Causes.com
 
 #### Software Engineer
-During the first few months, I worked on wishes.causes.com with a team of two other engineers, a designer, and a product lead.  My responsibilities spanned the whole stack: provisioning/configuring app machines and database servers, writing models, integrating with Facebook, realizing mockups in html/css, and creating nifty UI elements with jQuery.
+During the first few months, I worked on wishes.causes.com with a team of two other engineers, a designer, and a product lead.
+My responsibilities spanned the whole stack:
+  provisioning/configuring app machines and database servers,
+  writing models,
+  integrating with Facebook,
+  realizing mockups in html/css,
+  and creating nifty UI elements with jQuery.
 
 #### Systems Engineer
-Based on the needs of the company and my insatiable curiosity, I decided to pivot to the operations team.  I was responsible for the automation of machine provisioning and configuration, from the initial machine image to the first 200 OK.  This included automation and monitoring of remote power-cycle to dhcp/dns to PXE to kickstart to puppet and all the way through gem provisioning and deploy.  I eventually also became responsible for managing the configuring the A10 loadbalancers.  I was also responsible for provisioning and configuring a myriad of different internal services, including the static assets cluster with a squid reverse-proxy, and moving from a single memcache instance to a consistently-hashed cluster using Dalli.
+Based on the needs of the company and my insatiable curiosity, I decided to pivot to the operations team.
+I was responsible for the automation of machine provisioning and configuration, from the initial machine image to the first 200 OK.
+This included automation and monitoring of
+  remote power-cycle to dhcp/dns to PXE to kickstart to puppet
+  and all the way through gem provisioning and deploy.
+I eventually also became responsible for managing the configuring the A10 loadbalancers.
+I was also responsible for provisioning and configuring a myriad of different internal services, including
+  the static assets cluster with a squid reverse-proxy,
+  and moving from a single memcache instance to a consistently-hashed cluster using Dalli.
 
 ## Technologies
 
@@ -35,10 +52,16 @@ Based on the needs of the company and my insatiable curiosity, I decided to pivo
 * **I am willing and able to learn about:** anything.  No really, anything at all.
 
 ## Code I am proud of
-* [iplogic](http://github.com/jayferd/iplogic), an IPv4 swiss army chainsaw in ruby.
-* [truth](http://github.com/jayferd/truth), a library to define and manage truth in a datacenter (WIP).  It's got a sweet declarative ruby DSL.
-* [mathquill](http://mathquill.com), gui editable math in the browser.  Also, awesomesauce.
-* [rpgem](https://github.com/jayferd/rpgem), an admittedly hacky cli tool to turn gems into binary rpms, with specified exterrnal dependencies, and no dependencies on a compiler, development headers, or development gems.
+* [iplogic](http://github.com/jayferd/iplogic),
+  an IPv4 swiss army chainsaw in ruby.
+* [truth](http://github.com/jayferd/truth),
+  a library to define and manage truth in a datacenter (WIP).  It's got a sweet declarative ruby DSL.
+* [mathquill](http://mathquill.com),
+  gui editable math in the browser.  Also, awesomesauce.
+* [rpgem](https://github.com/jayferd/rpgem),
+  an admittedly hacky cli tool to turn gems into binary rpms,
+  with specified exterrnal dependencies,
+  and no dependencies on a compiler, development headers, or development gems.
 
 ## Non-sequitur interests
 * Rock piano.  Yeah, you heard me.
