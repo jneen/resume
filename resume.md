@@ -1,6 +1,11 @@
 # Jay Adkisson
 _Hacker, Systems dude, lover of beautiful code_
 
+* jjmadkisson AT gmail DOT com
+* [github.com/jayferd](http://github.com/jayferd)
+* [twitter.com/jayferd](http://twitter.com/jayferd)
+* [linkedin](http://www.linkedin.com/pub/jay-adkisson/19/222/458)
+
 ## What I'm looking for
 
 
