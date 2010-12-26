@@ -14,8 +14,13 @@ _Hacker, Systems dude, lover of beautiful code_
 
 ## Relevant Experience
 
-### Software Engineer at Causes.com
-### Systems Engineer at Causes.com
+### Causes.com
+
+#### Software Engineer
+Worked on wishes.causes.com with a team of two other engineers, a designer, and a product lead.  Had responsibilities that spanned the whole stack: provisioning/configuring app machines and database servers, writing models, integrating with Facebook, realizing mockups in html/css, and creating nifty UI elements with jQuery.
+
+#### Systems Engineer
+Based on the needs of the company and my insatiable curiosity, I decided to pivot to the operations team.  I was responsible for the automation of machine provisioning and configuration, from the initial machine image to the first 200 OK.  This included automation and monitoring of remote power-cycle to dhcp/dns to PXE to kickstart to puppet and all the way through gem provisioning and deploy.  I eventually also became responsible for managing the configuring the A10 loadbalancers.  I was also responsible for provisioning and configuring a myriad of different internal services, including the static assets cluster with a squid reverse-proxy, and moving from a single memcache instance to a consistently-hashed cluster using Dalli.
 
 ## Technologies
 
