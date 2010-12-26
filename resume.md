@@ -24,11 +24,11 @@ Based on the needs of the company and my insatiable curiosity, I decided to pivo
 
 ## Technologies
 
-* **I can code in:** ruby (incl. rails), javascript (node + browser), ba/sh, puppet, python
+* **I can code in:** ruby (rails), javascript (node + browser), bash, puppet, python
 
-* **I have intimate knowledge of:** puppet, dns (bind), dhcp, a10 loadbalancer configuration, redis, nginx, browser mumbo jumbo (html/css/js/jquery)
+* **I have intimate knowledge of:** puppet, dns (bind), dhcp, A10 loadbalancer configuration, redis, nginx, browser mumbo jumbo (html/css/js/jquery), rspec
 
-* **I have worked with / configured:** squid, memcached, rspec, node.js, mysql, syslog(-ng)
+* **I have worked with / configured:** squid, memcached, mysql, syslog(-ng)
 
 * **I have strong opinions on / have poked around about:** various nosql solutions (esp. redis and riak), mcollective
 
