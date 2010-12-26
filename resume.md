@@ -21,6 +21,8 @@ I'd be really jazzed about working at a socially-conscious startup that has a mi
 ## Relevant Experience
 
 ### Causes.com
+Causes is a large-scale Facebook application that connects people to things they care about.
+With about 30 million MAUs and a team of only 8 engineers, automation and predictability were mission-critical.
 
 #### Software Engineer
 During the first few months, I worked on wishes.causes.com with a team of two other engineers, a designer, and a product lead.
