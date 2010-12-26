@@ -46,13 +46,32 @@ I was also responsible for provisioning and configuring a myriad of different in
 
 ## Technologies
 
-* **I can code in:** ruby (rails), javascript (node + browser), bash, puppet, python
+* **I can code in:**
+ruby (rails),
+javascript (node + browser),
+bash,
+puppet,
+python
 
-* **I have intimate knowledge of:** puppet, dns (bind), dhcp, A10 loadbalancer configuration, redis, nginx, browser mumbo jumbo (html/css/js/jquery), rspec
+* **I have intimate knowledge of:**
+puppet,
+dns (bind),
+dhcp,
+A10 loadbalancer configuration,
+redis,
+nginx,
+browser mumbo jumbo (html/css/js/jquery),
+rspec
 
-* **I have worked with / configured:** squid, memcached, mysql, syslog(-ng)
+* **I have worked with / configured:**
+squid,
+memcached,
+mysql,
+syslog(-ng)
 
-* **I have strong opinions on / have poked around about:** various nosql solutions (esp. redis and riak), mcollective
+* **I have strong opinions on / have poked around about:**
+various nosql solutions (esp. redis and riak),
+mcollective
 
 * **I am willing and able to learn about:** anything.  No really, anything at all.
 
