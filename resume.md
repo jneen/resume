@@ -36,8 +36,8 @@ My responsibilities spanned the whole stack:
 #### Systems Engineer
 Based on the needs of the company and my insatiable curiosity, I decided to pivot to the operations team.
 I was responsible for the automation of machine provisioning and configuration, from the initial machine image to the first 200 OK.
-This included automation and monitoring of
-  remote power-cycle to dhcp/dns to PXE to kickstart to puppet
+This included automation and monitoring of the full build cycle:
+  remote power-cycle, dhcp/dns, PXE, kickstart, puppet,
   and all the way through gem provisioning and deploy.
 I eventually also became responsible for managing the configuring the A10 loadbalancers.
 I was also responsible for provisioning and configuring a myriad of different internal services, including
