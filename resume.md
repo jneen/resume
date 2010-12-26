@@ -47,7 +47,7 @@ I was also responsible for provisioning and configuring a myriad of different in
 ## Technologies
 
 * **I can code in:**
-ruby (rails),
+ruby
 javascript (node + browser),
 bash,
 puppet,
@@ -61,7 +61,8 @@ A10 loadbalancer configuration,
 redis,
 nginx,
 browser mumbo jumbo (html/css/js/jquery),
-rspec
+rspec,
+rails
 
 * **I have worked with / configured:**
 squid,
