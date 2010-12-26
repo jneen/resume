@@ -33,3 +33,8 @@ Based on the needs of the company and my insatiable curiosity, I decided to pivo
 * **I have strong opinions on / have poked around about:** various nosql solutions (esp. redis and riak), mcollective
 
 * **I am willing and able to learn about:** anything.  No really, anything at all.
+
+## Code I am proud of
+* [iplogic](http://github.com/jayferd/iplogic), an IPv4 swiss army chainsaw in ruby.
+* [truth](http://github.com/jayferd/truth), a library to define and manage truth in a datacenter (WIP).  It's got a sweet declarative ruby DSL.
+* [mathquill](http://mathquill.com), gui editable math in the browser.  Also, awesomesauce.
