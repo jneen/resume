@@ -87,6 +87,11 @@ mcollective
   with specified exterrnal dependencies,
   and no dependencies on a compiler, development headers, or development gems.
 
+## References
+[Scott Baker][], was VP of Operations at Causes.
+
+[Scott Baker]: http://www.linkedin.com/pub/scott-baker/1/88a/6b1
+
 ## Non-sequitur interests
 * Rock piano.  Yeah, you heard me.
 * Nonviolence and conflict resolution
