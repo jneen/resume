@@ -1,10 +1,11 @@
 # Jay Adkisson
 _Hacker, Systems dude, lover of beautiful code_
 
-* jjmadkisson AT gmail DOT com
-* [github.com/jayferd](http://github.com/jayferd)
-* [twitter.com/jayferd](http://twitter.com/jayferd)
-* [linkedin](http://www.linkedin.com/pub/jay-adkisson/19/222/458)
+916-402-8948
+| jjmadkisson@gmail.com
+| [github.com/jayferd](http://github.com/jayferd)
+| [twitter.com/jayferd](http://twitter.com/jayferd)
+| [linkedin](http://www.linkedin.com/pub/jay-adkisson/19/222/458)
 
 ## What I'm looking for
 I'm looking for a team that is a joy to work with on a daily basis.
@@ -46,7 +47,7 @@ I was also responsible for provisioning and configuring a myriad of different in
 ## Technologies
 
 * **I can code in:**
-ruby
+ruby,
 javascript (node + browser),
 bash,
 puppet,
@@ -61,7 +62,8 @@ redis,
 nginx,
 browser mumbo jumbo (html/css/js/jquery),
 rspec,
-rails
+rails,
+rubygems and gem provisioning
 
 * **I have worked with / configured:**
 squid,
@@ -70,7 +72,7 @@ mysql,
 syslog(-ng)
 
 * **I have strong opinions on / have poked around about:**
-various nosql solutions (esp. redis and riak),
+riak,
 mcollective
 
 * **I am willing and able to learn about:** anything.  No really, anything at all.
@@ -78,8 +80,10 @@ mcollective
 ## Code I am proud of
 * [iplogic](http://github.com/jayferd/iplogic),
   an IPv4 swiss army chainsaw in ruby.
-* [truth](http://github.com/jayferd/truth),
-  a library to define and manage truth in a datacenter (WIP).  It's got a sweet declarative ruby DSL.
+* truth (probably open source soon),
+  a library to define and manage truth in a datacenter (WIP).
+  It's got a sweet declarative ruby DSL.
+  And it's extensible.
 * [mathquill](http://mathquill.com),
   gui editable math in the browser.  Also, awesomesauce.
 * [rpgem](https://github.com/jayferd/rpgem),
@@ -88,8 +92,10 @@ mcollective
   and no dependencies on a compiler, development headers, or development gems.
 
 ## References
-[Scott Baker][], was VP of Operations at Causes.
+* [Scott Baker][], was VP of Operations at Causes.
+* [Kevin Ball][], coworker at Causes.
 
+[Kevin Ball]: http://www.linkedin.com/pub/kevin-ball/1/915/50a
 [Scott Baker]: http://www.linkedin.com/pub/scott-baker/1/88a/6b1
 
 ## Non-sequitur interests
